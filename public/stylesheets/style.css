@@ -6,3 +6,13 @@ body {
 a {
   color: #00B7FF;
 }
+
+body {
+  padding-top: 4.5rem;
+}
+
+.alert-pre {
+  word-wrap: break-word;
+  word-break: break-all;
+  white-space: pre-wrap;
+}
